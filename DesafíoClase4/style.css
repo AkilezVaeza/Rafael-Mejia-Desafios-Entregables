@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+
+}
+.titulo{
+    background-color: brown;
+    width: 70%;
+    margin: 10px;
+}
+span{
+    width: 100%;
+    background-color: aqua;
+}
+h5{
+    margin: 10px;
+}
+.caja{
+    width: 200px;
+    border: 3px solid rgb(245, 7, 7);
+    padding:  10px 20px 15px 25px;
+    margin: 10px 20px 25px 15px;
+    
+}
+.caja2{
+    width: 70%;
+    height: 200px;
+    overflow: hidden;
+    background-color: rgb(176, 140, 209);
+}
+.bloque{
+    display: none;
+    background-color: blue;
+    padding: 20px;
+}
